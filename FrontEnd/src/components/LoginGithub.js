@@ -31,7 +31,7 @@ const RespuestaGit = () => {
     const userData={
                user:{ 
                  name:githubData.data.name,
-                 email:'slronzonin@gmail.com'
+                 email:''
                }
     }
    
