@@ -17,7 +17,7 @@ function RespuestaGoogle() {
  useEffect(() => {
   function start() {
     gapi.client.init({
-      clientId:"637816611326-evem7ob7602jrgevh5ji7bltrug97tn7.apps.googleusercontent.com",
+      clientId:"",
         scope: "email",
     });
   }
