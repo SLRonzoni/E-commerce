@@ -1,0 +1,209 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    background-color: #13161b;
+    width:100%;
+}
+
+.boton
+.tituloListado{
+    background-color: aqua;
+    text-align: center;  
+}
+
+.btn{
+    text-align: center;
+    color:white;
+    text-decoration: none;
+    border: 1px solid white;
+    height: 29px;
+    font-size: 14px;
+    margin-top:4px;   
+   
+}
+
+.tituloItem{
+    color:#3C4657;    
+    font-size:calc(1px + 1rem) ;
+    text-align: center;
+    height:1rem;
+}
+
+
+.grupoBoton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:20px;
+}
+
+.GrupoBtn{
+    display:flex;
+    flex-direction:column;
+}
+
+
+.Btn {
+    height:35px;
+    background-color:wheat;
+    border-radius:5px;
+    font-size:16px;
+    margin-top:30px;
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    color:black;
+}
+
+
+.renglonBtn{  
+    color: black;
+    text-align: center;  
+}
+
+
+.lineAllClient{
+    display: flex;
+    padding-top:50px;
+    margin-left:10px;
+    width:70%;  
+}
+
+
+.modifBtn{  
+    color: white;
+    text-align: center;  
+    border-radius: 5px; 
+}
+
+.eliminaBtn{  
+    text-align: center;  
+    border-radius: 5px; 
+}
+
+
+h5{
+    margin-left:500px;
+}
+
+.modifH5{
+    margin-left:390px;
+}
+
+.modifInput{
+    margin-left:260px;
+}
+
+.botonNuevo{
+    margin-left: 25%;
+}
+
+.castillo{
+   display: flex;
+   margin: auto;
+   width: 34%;
+   height: 24%;
+}
+
+.bienvenidos{
+   color:whitesmoke;
+   font-size: 340%;
+   margin: auto;
+}
+
+.imagen-fluid, .nav-link{
+   margin-left: 50px;
+   margin-right:1px;
+}
+
+.logout{
+    color:whitesmoke;
+    background-color:transparent;
+    font-size: 20px;
+    margin-right: 30px;
+    width: 7%; 
+    height: auto;
+}
+
+.login {
+    color:whitesmoke;
+    background-color:transparent;
+    font-size: 20px;
+    width: 7%;
+    height: auto;  
+    
+}
+
+.margenEnd{
+    margin-left: 40%;
+    
+}
+.foto{
+    width: 40%;
+    margin-left:25%;
+   
+}
+
+.eneable{
+    opacity:1;
+}
+
+.disable{
+    opacity:0;
+}
+
+.centrar{
+    margin:auto;
+}
+
+.displayFlex{
+    display: flex;
+}
+
+.box-carrito{
+    margin-top:45px;
+}
+
+.google{
+    margin-left: 75%;
+}
+
+.btn-redes{
+    color:#7d8289;
+    font-weight: 200;
+    height: 40px;
+    font-size: 85%;
+    background-color:white;
+    border:none  ;
+    box-shadow: 0.1px 1px 1px 0.2px rgb(181, 181, 181);
+    padding:9px;
+    margin-top: 16px;
+}
+
+.capitalize{
+    text-transform: capitalize !important;
+  }
+
+.cardPlaceOrder{   
+    height: auto;
+    width: auto;
+    margin-left: 3rem;
+  }
+
+  .img-cart{
+    width:30%;
+    height: 30%;
+  }
+
+  .cart-titulo{
+    text-align: left;
+    margin-left:33%
+  }
+
+  .cart-total-button{
+    display: inline-flex;
+    align-items: center;
+  }

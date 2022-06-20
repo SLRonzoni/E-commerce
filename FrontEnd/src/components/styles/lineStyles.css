@@ -1,0 +1,67 @@
+.card{
+    height:25rem;
+    width:18rem;
+    box-shadow:3px 0px 5px 3px grey;
+    display:inline-flex;
+    margin: auto;
+    margin-left:1%;
+    margin-bottom:0.5%;
+}
+
+.centrar{
+    text-align: center;
+    justify-content: center;
+}
+
+.imagenChar{
+    display:flex;
+    margin:auto;
+    height:100px; 
+}
+
+.boton{
+    margin-left: 10%;
+}
+
+.imagenGender{
+    display:flex;
+    margin:auto;
+    height:6rem;
+    width: 19rem; 
+}
+
+
+.renglonLine{ 
+    margin-right:1rem;
+    margin-left:1rem; 
+}
+
+.box-card{
+    height: auto;
+    min-height: 380px;
+}
+
+.display{
+    display: block;
+}
+
+.alinear{
+    margin-left:-10px;
+}
+
+.tablaPedidos{
+ margin:auto;
+ width: 90%;
+}
+
+.tablaPedidosProductos{
+ width: 50%;
+}
+
+.tablaMisPedidos{
+border:1px solid white;
+}
+
+.myOrderButton{
+    margin-right: 4rem;
+}
